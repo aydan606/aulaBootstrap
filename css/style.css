@@ -1,0 +1,27 @@
+body {
+    font-family: candara, verdana, arial;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: #3CB371;
+    padding-left: 100px;
+}
+
+.quem_somos {
+    background-color: #E0FFFF;
+}
+
+.margin {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.parceiros {
+    background-color: #DDA0DD;
+}
+
+.bg-footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
